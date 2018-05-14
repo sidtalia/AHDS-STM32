@@ -1,4 +1,6 @@
 # AHDS-STM32
+THIS CODE HAS NOT YET BEEN TESTED SO PLEASE DO NOT USE IT (or if you do and something goes wrong don't blame it on me). 
+
 altitude hold drone simple but on an stm32. Inspired by joop brokking's videos
 I took the method for creating pwms and reading interrupts from joop brokking's videos.
 The rest of the code is my own.
